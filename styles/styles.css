@@ -3,6 +3,12 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+footer {
+    position: sticky;
+    bottom: 0;
+    text-align: center;
+}
+
 .navbar {
     background-color: #2f4f4f;
 }
